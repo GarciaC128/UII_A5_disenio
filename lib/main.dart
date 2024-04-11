@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
             ),
             SizedBox(
               height: 250.0,
-              width: 350.0,
+              width: 450.0,
               child: Image.network(
                 "https://files.antena2.com/antena2/public/styles/imagen_despliegue/public/2018-10/ayrton-senna-1260_1_0.jpg.webp?VersionId=W22E1F5MvkZxoK31UWZZBk1Oa8t3092u&itok=8-EBFBIN",
                 fit: BoxFit.fitWidth,
